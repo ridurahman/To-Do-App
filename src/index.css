@@ -1,0 +1,24 @@
+body {
+  max-width: 1280px;
+  margin: 20 auto;
+  padding: 2rem;
+}
+
+div {
+  margin-top: 50px;
+}
+
+button {
+  margin-left: 20px;
+}
+button:hover {
+  border-color: #646cff;
+}
+
+li {
+  list-style: none;
+}
+
+.liInput {
+  margin-right: 20px;
+}
